@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="batch-processing" />
+        <module name="batch-processing (1)" />
         <module name="GDesign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="batch-processing" target="1.8" />
+      <module name="batch-processing (1)" target="1.8" />
       <module name="GDesign" target="1.5" />
     </bytecodeTargetLevel>
   </component>

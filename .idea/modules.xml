@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GDesign.iml" filepath="$PROJECT_DIR$/GDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-batch-processing/initial/batch-processing.iml" filepath="$PROJECT_DIR$/gs-batch-processing/initial/batch-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-batch-processing/complete/batch-processing (1).iml" filepath="$PROJECT_DIR$/gs-batch-processing/complete/batch-processing (1).iml" />
     </modules>
   </component>
 </project>

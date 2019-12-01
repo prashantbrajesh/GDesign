@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gs-batch-processing/initial/pom.xml" />
+        <option value="$PROJECT_DIR$/gs-batch-processing/complete/pom.xml" />
       </list>
     </option>
   </component>
